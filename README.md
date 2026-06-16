@@ -1,1 +1,1 @@
-this is my college first day assignment for industrial training classes during summer break
+This repo holds my assignments for Industrial Training provided in summer break by my college.
